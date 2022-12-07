@@ -1,9 +1,12 @@
 # esp-32-project
 
+# What is my project ? 
 
-
-
-
+My project is a live, wifi required, survilance camera using Arduino software.
+ 
+ # Why did you choose this project ?
+ 
+ I chose this camera because it falls under my interest in cybersecurity. 
 
 
 
