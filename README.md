@@ -6,10 +6,17 @@ My project is a live, wifi required, survilance camera using Arduino software.
  
  # Why did you choose this project ?
  
- I chose this camera because it falls under my interest in cybersecurity. 
+ I chose this camera because it falls under my interest in cybersecurity. I use to facetime myself on my mac from my phone to watch my dogs, and make sure they were safe. But with the esp32 watching my loved ones can be so much easier.      
+ 
+ 
+ # What was the experience installing the ESP32?
+ 
+ Pretty straight forward. May look complex to the naked eye, I had assistance from my professor when I was stuck. If you are feeling stuck, make sure ti retrace your steps for any errors. Ask for help if needed. Small errors can lead to everything failing. 
 
+# What is the future of the ESP32? 
 
-
+ The future of the ESP32 doesnt have to have limits, the functions go beyond survilance. The goal is to create various functions that allow the ESP 32 to be used for protection purposes. To prevent dangerous situations and be aware of surrounding even when you are not physically there. 
+ 
  # Software Managing 
 
 Step one : Download software audino  : https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json 
