@@ -7,7 +7,7 @@
 
 
 
-#Software Managing 
+ # Software Managing 
 
 Step one : Download software audino  : https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json 
  Failed to download the correct python. 
