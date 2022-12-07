@@ -22,7 +22,7 @@ Step one : Download software audino  : https://raw.githubusercontent.com/espress
  Step three : Next, select tools "Board: Audino Uno , Boards Manger". Search ESP32 and install it. This will activate the esp32 camera
 , in which you will further use it for secuirty reasons by live wifi. 
 
- Step Four : Select Device Manager to find PORT user, depeding on the device, this step may look different for everyone.
+ Step Four : Select Device Manager to find PORT user, depending on the device, this step may look different for everyone.
  
  Step Five : Select the port you used connected to your device.
  
@@ -30,4 +30,6 @@ Step one : Download software audino  : https://raw.githubusercontent.com/espress
  
  Step Seven, Scroll down until you locate CAMERA_MODEL_AL_THINKER, delect this line by deleting "//" if needed.
  
- Step Eight : 
+ Step Eight : Under " Enter Your Wifi Credentials", choose your desired password, then enter the SSID (wifi) you are using carefully and precisely.
+ 
+ Last Step, reset the esp32 by clicking two times and everything should now be set and processed . To see if it is activated, copy and paste the link provided in the screen and enter it in your browser. 
