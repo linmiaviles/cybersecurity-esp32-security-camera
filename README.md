@@ -34,12 +34,18 @@ Step one : Download software audino  : https://raw.githubusercontent.com/espress
 
  Step Four : Select Device Manager to find PORT user, depending on the device, this step may look different for everyone.
  
- Step Five : Select the port you used connected to your device.
+ Step Five : Select the port you used connected to your device
+ 
  
  Step Six : Next, Select ESP 32 on "File" , drop down " Examples", then "Camera Web Server" , click and open it.
  
  Step Seven, Scroll down until you locate CAMERA_MODEL_AL_THINKER, delect this line by deleting "//" if needed.
  
  Step Eight : Under " Enter Your Wifi Credentials", choose your desired password, then enter the SSID (wifi) you are using carefully and precisely.
- 
+ <img width="546" alt="Screen Shot 2022-12-11 at 8 03 14 PM" src="https://user-images.githubusercontent.com/113206265/206940592-45cfed77-4c6f-4ce4-ac92-3efd534524d7.png">
+
  Last Step, reset the esp32 by clicking two times and everything should now be set and processed . To see if it is activated, copy and paste the link provided in the screen and enter it in your browser. 
+ 
+ <img width="490" alt="Screen Shot 2022-12-06 at 5 58 38 PM" src="https://user-images.githubusercontent.com/113206265/206940512-8fc61337-e6f9-48ee-842c-e8b71d8e2ff6.png">
+
+ 
